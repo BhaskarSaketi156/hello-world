@@ -53,7 +53,8 @@ const reducer = (state = initialState, action) => {
       }
 }
 */
-
+//
+//
 const cakeState={
     numberOfCakes:10
 }
