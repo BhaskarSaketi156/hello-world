@@ -12,7 +12,7 @@ const logger=reduxLogger.createLogger()
 const BUY_CAKE ='BUY_CAKE'
 const BUY_ICE = 'BUY_ICE'
 
-//Action is to buy cake
+// Action is to buy cake from cakestore
 
 /*const initialState=
 {
